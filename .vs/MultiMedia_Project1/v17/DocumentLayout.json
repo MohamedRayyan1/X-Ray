@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\MultiMedia_Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6746B5-D91E-474E-92C5-92F9B2C78150}|MultiMedia_Project1\\MultiMedia_Project1.csproj|c:\\users\\admin\\source\\repos\\multimedia_project1\\multimedia_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6746B5-D91E-474E-92C5-92F9B2C78150}|MultiMedia_Project1\\MultiMedia_Project1.csproj|solutionrelative:multimedia_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6746B5-D91E-474E-92C5-92F9B2C78150}|MultiMedia_Project1\\MultiMedia_Project1.csproj|C:\\Users\\admin\\source\\repos\\MultiMedia_Project1\\multimedia_project1\\inputonlinefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6746B5-D91E-474E-92C5-92F9B2C78150}|MultiMedia_Project1\\MultiMedia_Project1.csproj|solutionrelative:multimedia_project1\\inputonlinefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputOnlineFile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MultiMedia_Project1\\MultiMedia_Project1\\InputOnlineFile.cs",
+              "RelativeDocumentMoniker": "MultiMedia_Project1\\InputOnlineFile.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MultiMedia_Project1\\MultiMedia_Project1\\InputOnlineFile.cs",
+              "RelativeToolTip": "MultiMedia_Project1\\InputOnlineFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:05:16.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MultiMedia_Project1\\MultiMedia_Project1\\Program.cs",
+              "RelativeDocumentMoniker": "MultiMedia_Project1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MultiMedia_Project1\\MultiMedia_Project1\\Program.cs",
+              "RelativeToolTip": "MultiMedia_Project1\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowK8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:27:18.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
